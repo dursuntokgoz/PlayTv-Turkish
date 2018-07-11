@@ -3,7 +3,7 @@
 #################################################################################
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet HD
-https://world.pornthe.top/hls/fox.m3u8|Referer=https://canais.ink/
+https://world.pornthe.top/hls/fox.ts Referer=https://canais.ink/
 
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet SD
 http://iptvbrasil1.ddns.net:8080/live/play/play/51.ts
