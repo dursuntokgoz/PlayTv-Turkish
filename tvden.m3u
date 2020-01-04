@@ -32,6 +32,11 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1, tvg-id="Sun Tv" tvg-logo="logos/sun.jpg" tvg-name="Sun Tv"  group-title="Adult",Sun Tv
 http://178.124.183.5:80/hls/F7UMYQMCGB/variant.m3u8
 
+#EXTINF:-1, tvg-id="A3 Bikini" tvg-logo="logos/a3bikini.jpg" tvg-name="A3 Bikini"  group-title="Adult",A3 Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1, tvg-id="BSX" tvg-logo="logos/bsx.jpg" tvg-name="BSX"  group-title="Adult",BSX
+http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Russian
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Teen
