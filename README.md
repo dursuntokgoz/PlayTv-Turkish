@@ -5,4 +5,3 @@ ayrıca tvden.m3u dosya ismini,assets\javascripts\application.js yi bir editör 
 Renk ayarlarını ise,assets\stylesheets\application.css dosyasından editleyebilirsiniz.
 -----------------------------------------------------------------------------------------------------
 In index.html, replace the http://tvden.myartsonline.com web address in your manifest.webapp file and sitemap.xml with your own site address. You can also replace the file name tvden.m3u with the name m3u you want by opening assets\javascripts\application.js with an editor. You can edit the color settings from assets\stylesheets\application.css
-http://f21-preview.runhosting.com/tvden.myartsonline.com/view.jpg
