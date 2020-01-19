@@ -35,6 +35,12 @@ http://178.124.183.5:80/hls/F7UMYQMCGB/variant.m3u8
 #EXTINF:-1, tvg-id="A3 Bikini" tvg-logo="logos/a3bikini.jpg" tvg-name="A3 Bikini"  group-title="Adult",A3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
+#EXTINF:-1, tvg-id="NYK" tvg-logo="logos/nyk.jpg" tvg-name="NYK"  group-title="Adult",NYK 1
+https://cdn1.ibizastream.biz:441/free/Stream1/chunks.m3u8
+
+#EXTINF:-1, tvg-id="NYK" tvg-logo="logos/nyk.jpg" tvg-name="NYK"  group-title="Adult",NYK 2
+https://cdn1.ibizastream.biz:441/free/Stream2/chunks.m3u8
+
 #EXTINF:-1, tvg-id="BSX" tvg-logo="logos/bsx.jpg" tvg-name="BSX"  group-title="Adult",BSX
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Russian
@@ -69,5 +75,3 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Threesome
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1, tvg-id="Brazzers" tvg-logo="logos/brazzers.png" tvg-name="Brazzers"  group-title="Adult",Brazzers
-http://s1.hdporus.com/content/vod/s2248/720/index.m3u8
