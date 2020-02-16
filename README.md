@@ -6,4 +6,4 @@ Renk ayarlarını ise,assets\stylesheets\application.css dosyasından editleyebi
 -----------------------------------------------------------------------------------------------------
 In index.html, replace the http://tvden.myartsonline.com web address in your manifest.webapp file and sitemap.xml with your own site address. You can also replace the file name tvden.m3u with the name m3u you want by opening assets\javascripts\application.js with an editor. You can edit the color settings from assets\stylesheets\application.css
 
-https://github.com/telase/PlayTv-Turkish/blob/master/PlayTv_view.png
+https://raw.githubusercontent.com/telase/PlayTv-Turkish/master/PlayTv_view.png
