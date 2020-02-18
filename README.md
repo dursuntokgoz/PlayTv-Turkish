@@ -1,3 +1,6 @@
+# PlayTv-EN
+https://github.com/telase/PlayTv-EN
+
 # PlayTv-Turkish
 index.html de,manifest.webapp dosyasında ve sitemap.xml dosyasında bulunan 
 http://tvden.myartsonline.com web adresimi kendi site adresinle değiştiriniz.
