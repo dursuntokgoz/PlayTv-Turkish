@@ -1,17 +1,17 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, tvg-id="Euro Spor" tvg-logo="logos/Eurosport1.tr.png" tvg-name="Euro Spor"  group-title="Sport",Euro Spor
+#EXTINF:-1, tvg-id="Euro Spor" tvg-logo="logos/Eurosport1.tr.png" tvg-name="Euro Spor"  group-title="Spor",Euro Spor
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
-#EXTINF:-1, tvg-id="Euro Spor" tvg-logo="logos/Eurosport2.tr.png" tvg-name="Euro Spor"  group-title="Sport",Euro Spor 2
+#EXTINF:-1, tvg-id="Euro Spor" tvg-logo="logos/Eurosport2.tr.png" tvg-name="Euro Spor"  group-title="Spor",Euro Spor 2
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
-#EXTINF:-1, tvg-id="Fashion TV" tvg-logo="logos/fashion.jpg" tvg-name="Fashion TV"  group-title="Fashion",Fashion TV
+#EXTINF:-1, tvg-id="Fashion TV" tvg-logo="logos/fashion.jpg" tvg-name="Fashion TV"  group-title="Öoda",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Fashion TV 2" tvg-logo="logos/fashion.jpg" tvg-name="Fashion TV 2"  group-title="Fashion",Fashion TV 2
+#EXTINF:-1, tvg-id="Fashion TV 2" tvg-logo="logos/fashion.jpg" tvg-name="Fashion TV 2"  group-title="Moda",Fashion TV 2
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
 
-#EXTINF:-1, tvg-id="Jasmin TV" tvg-logo="logos/jasmin.jpg" tvg-name="Jasmin TV"  group-title="Music",Jasmin TV
+#EXTINF:-1, tvg-id="Jasmin TV" tvg-logo="logos/jasmin.jpg" tvg-name="Jasmin TV"  group-title="Muzik",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Playboy" tvg-logo="logos/playboy.jpg" tvg-name="Playboy"  group-title="Adult",Playboy
@@ -64,16 +64,16 @@ http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Threesome
 http://live.redtraffic.xyz/threesome.m3u8
 
-#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Movie",Adult Movie 1
+#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Film"  group-title="Film",Adult Film 1
 http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21235/21235_720p.mp4
-#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Movie",Adult Movie 2
+#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Film"  group-title="Film",Adult Film 2
 http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21261/21261_720p.mp4
-#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Movie",Adult Movie 3
+#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Film"  group-title="Film",Adult Film 3
 http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21338/21338_720p.mp4
-#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Movie",Adult Movie 3
+#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Film"  group-title="Film",Adult Film 3
 http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21651/21651_720p.mp4
-#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/ibiza.jpg" tvg-name="Adult Movie"  group-title="Movie",IBIZA 1
+#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/ibiza.jpg" tvg-name="Adult Film"  group-title="Film",IBIZA 1
 https://q5c5i4a4.stackpathcdn.com/web_edge/_definst_/amateur/amateur_43396.mp4/chunklist.m3u8
-#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/ibiza.jpg" tvg-name="Adult Movie"  group-title="Movie",IBIZA 2
+#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/ibiza.jpg" tvg-name="Adult Film"  group-title="Film",IBIZA 2
 https://q5c5i4a4.stackpathcdn.com/web_edge/_definst_/amateur/amateur_44030.mp4/chunklist.m3u8
 
