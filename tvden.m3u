@@ -5,7 +5,7 @@ http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 #EXTINF:-1, tvg-id="Euro Spor" tvg-logo="logos/Eurosport2.tr.png" tvg-name="Euro Spor"  group-title="Spor",Euro Spor 2
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
-#EXTINF:-1, tvg-id="Fashion TV" tvg-logo="logos/fashion.jpg" tvg-name="Fashion TV"  group-title="Öoda",Fashion TV
+#EXTINF:-1, tvg-id="Fashion TV" tvg-logo="logos/fashion.jpg" tvg-name="Fashion TV"  group-title="Moda",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Fashion TV 2" tvg-logo="logos/fashion.jpg" tvg-name="Fashion TV 2"  group-title="Moda",Fashion TV 2
