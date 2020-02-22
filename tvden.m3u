@@ -20,6 +20,12 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1, tvg-id="Miami Tv" tvg-logo="logos/miami_tv.jpg" tvg-name="Miami Tv"  group-title="Adult",Miami Tv
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 
+#EXTINF:-1, tvg-id="NuArt Tv" tvg-logo="logos/NuArt.png" tvg-name="NuArt Tv"  group-title="Adult",NuArt Tv
+http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
+
+#EXTINF:-1, tvg-id="Sun Tv" tvg-logo="logos/sun.jpg" tvg-name="Sun Tv"  group-title="Adult",Sun Tv
+http://178.124.183.5:80/hls/F7UMYQMCGB/variant.m3u8
+
 #EXTINF:-1, tvg-id="A3 Bikini" tvg-logo="logos/a3bikini.jpg" tvg-name="A3 Bikini"  group-title="Adult",A3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
@@ -64,16 +70,15 @@ http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Threesome
 http://live.redtraffic.xyz/threesome.m3u8
 
-#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Film"  group-title="Film",Adult Film 1
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Film",Adult Movie 1
 http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21235/21235_720p.mp4
-#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Film"  group-title="Film",Adult Film 2
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Film",Adult Movie 2
 http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21261/21261_720p.mp4
-#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Film"  group-title="Film",Adult Film 3
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Film",Adult Movie 3
 http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21338/21338_720p.mp4
-#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Film"  group-title="Film",Adult Film 3
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/movie+18.jpg" tvg-name="Adult Movie"  group-title="Film",Adult Movie 3
 http://gzmbu8bjh3.singularcdn.net.br/contents/videos/21000/21651/21651_720p.mp4
-#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/ibiza.jpg" tvg-name="Adult Film"  group-title="Film",IBIZA 1
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/ibiza.jpg" tvg-name="Adult Movie"  group-title="Film",IBIZA 1
 https://q5c5i4a4.stackpathcdn.com/web_edge/_definst_/amateur/amateur_43396.mp4/chunklist.m3u8
-#EXTINF:-1, tvg-id="Adult Film" tvg-logo="logos/ibiza.jpg" tvg-name="Adult Film"  group-title="Film",IBIZA 2
+#EXTINF:-1, tvg-id="Adult Movie" tvg-logo="logos/ibiza.jpg" tvg-name="Adult Movie"  group-title="Film",IBIZA 2
 https://q5c5i4a4.stackpathcdn.com/web_edge/_definst_/amateur/amateur_44030.mp4/chunklist.m3u8
-
