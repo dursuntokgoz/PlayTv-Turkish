@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="logos/trt1.png" group-title="TV",TRT 1
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="logos/atv.png" group-title="TV",A TV
-http://85.132.53.55/turk/atv_turk_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="logos/atv.png" group-title="TV",ATV
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ATV_HD/index.m3u8?start=LIVE&end=END&device=HLS
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="logos/show.png" group-title="TV",Show TV
 http://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="logos/star.png" group-title="TV",Star TV
@@ -62,7 +62,34 @@ http://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/afyonturk.png" group-title="TV",Afyon Türk TV
 http://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART HD
+http://vision-tv.nl:8080/MOVIESMARTTURKHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART CLASSIC HD
+http://vision-tv.nl:8080/MOVIESMARTCLASSICHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART ACTION HD
+http://vision-tv.nl:8080/MOVIESMARTACTIONHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART ACTION 2 HD
+http://vision-tv.nl:8080/beINMOVIESACTION2HD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART PREMIUM HD
+http://vision-tv.nl:8080/beINMOVIESPREMIEREHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART PREMIUM 2 HD
+http://vision-tv.nl:8080/MOVIESMARTPREMIUM2HD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN MOVIES TURK HD
+http://vision-tv.nl:8080/beINMOVIESTURKHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN MOVIES PREMIERE HD
+http://vision-tv.nl:8080/beINMOVIESPREMIEREHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN MOVIES PREMIERE 2 HD
+http://vision-tv.nl:8080/beINMOVIESPREMIERE2HD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN MOVIES STARS HD
+http://vision-tv.nl:8080/beINMOVIESSTARSHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN SERIES COMEDY HD
+http://vision-tv.nl:8080/beINSERIESCOMEDYHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN SERIES DRAMA HD
+http://vision-tv.nl:8080/beINSERIESDRAMAHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN SERIES SCI-FI HD
+http://vision-tv.nl:8080/beINSERIESSCI-FIHD_42Loc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN SERIES VICE HD
+http://vision-tv.nl:8080/beINSERIESVICEHD_42Loc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/cine5.png" group-title="Film",Cine5 TV
 http://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/blutvaksiyon.png" group-title="Film",BLUTV Aksiyon
